@@ -4,7 +4,13 @@ Hi 👋 My name is Thevy Ngo
 Fullstack developer
 -------------------
 
-Thevy has a bachelor degree as a Software Engineer from OsloMet. He specializes in frontend, but work as a full-stack developer. He thrives on finding solution to business challenges, and he wants the user experience to be flawless on all devices. He has a god technical understanding and is a pusher to use new technologies, and he is interested in modern technologies/frameworks and methods. He has taken a course in React 2019: Hooks, Concurrency, Performance, Maintainability & Tests and Az-900 and MS 70-480 certifications. He has experience from the oil and energy field where he worked as a full-stack developer for Kongsberg digital. Here he worked with a digital twin - a SaS solution where Shell Global is one of the biggest customers. He acquired knowledge in the MEAN-stack, use of realtime data, Azure DevOps and agile methods. Of personal characteristics, Thevy is structured, efficient and responsible. He has a lot of experience working with agile processes and experience with test-driven development. Thevy has a good work capacity, and is used to work with many tasks simultaneously. He is also solution-oriented and flexible.
+Thevy has a bachelor degree as a Software Engineer from OsloMet. He specializes in frontend, but work as a full-stack developer. He thrives on finding solution to business challenges, and he wants the user experience to be flawless on all devices.
+
+He has a god technical understanding and is a pusher to use new technologies, and he is interested in modern technologies/frameworks and methods. He has taken a course in React 2019: Hooks, Concurrency, Performance, Maintainability & Tests and Az-900 and MS 70-480 certifications.
+
+He has experience from the oil and energy field where he worked as a full-stack developer for Kongsberg digital. Here he worked with a digital twin - a SaS solution where Shell Global is one of the biggest customers. He acquired knowledge in the MEAN-stack, use of realtime data, Azure DevOps and agile methods. 
+
+Of personal characteristics, Thevy is structured, efficient and responsible. He has a lot of experience working with agile processes and experience with test-driven development. Thevy has a good work capacity, and is used to work with many tasks simultaneously. He is also solution-oriented and flexible.
 
 * 🌍  I'm based in Oslo, Norway
 * ✉️  You can contact me at [mail@thevyngo.no](mailto:mail@thevyngo.no)
